@@ -11792,3 +11792,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   border-radius: 8px;
   box-shadow: 3px 3px 8px #555454;
 }
+
+.text-align-left {
+  text-align: left;
+}
