@@ -11807,3 +11807,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .text-align-left {
   text-align: left;
 }
+
+.pic-stuff {
+  max-height: 720px !important;
+}
