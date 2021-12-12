@@ -11808,6 +11808,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: left;
 }
 
-.pic-stuff {
+.limit-carousel-image {
   max-height: 720px !important;
+  max-width: 550px !important;
+  object-fit: contain !important;
 }
