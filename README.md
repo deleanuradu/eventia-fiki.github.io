@@ -1,6 +1,6 @@
 # habit-oasis-fiki.github.io
 
-Fancy Wiki App created for a university project showcasing the progress and the milestones reached for each part of the Mock Startup that me and my team developed. Built using a Bootstrap 5 theme and hosted on github pages.
+Fancy Wiki App created for a university project showcasing the progress and the milestones reached for each part of the Mock Startup that me and my team worked on. Built using a Bootstrap 5 theme and hosted on github pages.
 
 https://deleanuradu.github.io/habit-oasis-fiki.github.io/ 
 
